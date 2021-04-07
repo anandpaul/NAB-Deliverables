@@ -1,0 +1,44 @@
+Apr 03, 2021 3:03:06 AM au.com.nab.test.util.ValidateInput isValid
+WARNING: Number is missing in the input. Please enter number
+Apr 03, 2021 3:03:06 AM au.com.nab.test.NABCodeTest main
+WARNING: Invalid Instruction. Please enter the correct instruction. For details, please refer to the introduction banner.
+Apr 03, 2021 3:03:08 AM au.com.nab.test.NABCodeTest main
+INFO: User entered - push 9
+Apr 03, 2021 3:03:08 AM au.com.nab.test.business.StackMachineBusiness push
+INFO: 9 is pushed to the stack
+Apr 03, 2021 3:03:10 AM au.com.nab.test.NABCodeTest main
+INFO: User entered - undo
+Apr 03, 2021 3:03:10 AM au.com.nab.test.business.StackMachineBusiness undo
+INFO: The instruction UNDO is performed successfully.
+Apr 03, 2021 3:03:12 AM au.com.nab.test.NABCodeTest main
+INFO: User entered - undo
+Apr 03, 2021 3:03:12 AM au.com.nab.test.business.StackMachineBusiness undo
+INFO: There is nothing to UNDO as the stack is empty. Please PUSH numbers and then try UNDO
+Apr 03, 2021 3:03:22 AM au.com.nab.test.NABCodeTest main
+INFO: User entered - push 3
+Apr 03, 2021 3:03:22 AM au.com.nab.test.business.StackMachineBusiness push
+INFO: 3 is pushed to the stack
+Apr 03, 2021 3:03:24 AM au.com.nab.test.NABCodeTest main
+INFO: User entered - push 4
+Apr 03, 2021 3:03:24 AM au.com.nab.test.business.StackMachineBusiness push
+INFO: 4 is pushed to the stack
+Apr 03, 2021 3:03:25 AM au.com.nab.test.NABCodeTest main
+INFO: User entered - push 45
+Apr 03, 2021 3:03:25 AM au.com.nab.test.business.StackMachineBusiness push
+INFO: 45 is pushed to the stack
+Apr 03, 2021 3:03:26 AM au.com.nab.test.NABCodeTest main
+INFO: User entered - undo
+Apr 03, 2021 3:03:26 AM au.com.nab.test.business.StackMachineBusiness undo
+INFO: The instruction UNDO is performed successfully.
+Apr 03, 2021 3:03:28 AM au.com.nab.test.NABCodeTest main
+INFO: User entered - undo
+Apr 03, 2021 3:03:28 AM au.com.nab.test.business.StackMachineBusiness undo
+INFO: The instruction UNDO is performed successfully.
+Apr 03, 2021 3:03:29 AM au.com.nab.test.NABCodeTest main
+INFO: User entered - undo
+Apr 03, 2021 3:03:29 AM au.com.nab.test.business.StackMachineBusiness undo
+INFO: The instruction UNDO is performed successfully.
+Apr 03, 2021 3:03:37 AM au.com.nab.test.NABCodeTest main
+INFO: User entered - undo
+Apr 03, 2021 3:03:37 AM au.com.nab.test.business.StackMachineBusiness undo
+INFO: There is nothing to UNDO as the stack is empty. Please PUSH numbers and then try UNDO

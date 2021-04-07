@@ -1,0 +1,5 @@
+au\com\nab\test\business\StackMachineBusiness.class
+au\com\nab\test\NABCodeTest.class
+au\com\nab\test\util\StackLogger.class
+au\com\nab\test\util\ValidateInput.class
+au\com\nab\test\App.class
